@@ -1,13 +1,8 @@
 # Works Of Different GitHub Authors
 
-## [Classical Reinforcement Learning]()
-
-
-
-## [Deep Reinforcement Learning](./Deep_Reinforcement_Learning/)
-
-
-## [Deep Learning](./Deep_Learning/)
+### [Classical Reinforcement Learning](./Classical_Reinforcement_Learning/README.md)
+### [Deep Reinforcement Learning](./Deep_Reinforcement_Learning/README.md)
+### [Deep Learning](./Deep_Learning/README.md)
 
 
 <br><br><br>
