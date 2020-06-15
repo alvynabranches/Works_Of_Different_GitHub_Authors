@@ -1,14 +1,14 @@
 # Works Of Different GitHub Authors
 
-## Classical Reinforcement Learning
-1. [Python Implementation of Reinforcement Learning: An Introduction ](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) by Shangtong Zhang
+## [Classical Reinforcement Learning]()
 
 
-## [Deep Reinforcement Learning](./Deep_Reinforcement_Learning/README.md)
+
+## [Deep Reinforcement Learning](./Deep_Reinforcement_Learning/)
 
 
-## Deep Learning
-1. []()
+## [Deep Learning](./Deep_Learning/)
+
 
 <br><br><br>
 All the projects belong to the respective authors. Copying the code will be illegal. 
